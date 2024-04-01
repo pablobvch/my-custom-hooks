@@ -99,8 +99,3 @@ const TodoComponent = () => {
   // Render your todos and controls here
 };
 ```
-
-
-## License
-
-This project is open-source software licensed under the [MIT License](LICENSE).
